@@ -1,0 +1,22 @@
+{
+  "wheel_id": 866,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-112",
+  "project": "kitchen-renovations-melbourne-north-signs-you-need-5f0701e82c68",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-155",
+  "node_role": "feeder",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north signs you need",
+  "intended_url": "https://sitesau.github.io/melbournenorthkitchenrenovation-112/",
+  "tier": "T2",
+  "writeback_nonce": "eff82cccda485f3f",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-how-to-choose-6bc8171f20a63/",
+      "anchor": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-how-to-choose-6bc8171f20a63/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
